@@ -1,11 +1,17 @@
 [home]
 other = "home"
 
+[portfolio]
+other = "portfolio"
+
 [posts]
-other = "posts"
+other = "portfolio"
 
 [about]
 other = "about"
+
+[speaking]
+other = "speaking"
 
 [tags]
 other = "tags"

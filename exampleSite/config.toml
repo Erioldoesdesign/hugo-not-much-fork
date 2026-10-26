@@ -3,7 +3,7 @@
 # from a subdir of the theme
 themesDir = "../../"
 
-title = "not-much demo"
+title = "Eriol Does Design"
 theme = "not-much"
 baseURL = "https://example.org/"
 copyright = "Sample custom notice © {year}"
@@ -27,14 +27,14 @@ defaultContentLanguageInSubdir = false
 
 [markup]
   [markup.highlight]
-    style = 'dracula'
+    style = 'eriol'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
 [params]
 theme = "auto"
-palette = "eink"
+palette = "eriol"
 showThemeNotice = true
 showPostsSummary = true
 
@@ -76,9 +76,15 @@ lazyLoading = true
     url = "/tags"
     weight = 4
 
+    [[menu.main]]
+    identifier = "speaking"
+    title = "Speaking"
+    url = "/speaking"
+    weight = 5
+
   [[menu.main]]
     identifier = "github"
     name = "github"
     title = "GitHub"
-    url = "https://github.com/imgios/not-much"
-    weight = 5
+    url = "https://github.com/Erioldoesdesign"
+    weight = 6
