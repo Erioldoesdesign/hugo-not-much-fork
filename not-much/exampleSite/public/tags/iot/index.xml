@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>IoT on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/iot/</link>
+		<description>Recent content in IoT on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>An accessible User Interface to build custom smart home IoT</title>
+				<link>http://localhost:1313/posts/esp-home/</link>
+				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/esp-home/</guid>
+				<description>Ensuring that electronics and coding proficient interfaces intended for beginner users are accessible, usable and approachable to new users with ESPHome.</description>
+			</item>
+			<item>
+				<title>Music listening behaviour in Smart Homes. Improving the smart speaker music management experience</title>
+				<link>http://localhost:1313/posts/music-assistant/</link>
+				<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/music-assistant/</guid>
+				<description>Improving controls for a music player that is connect to local smart home devices and speakers where we prioritise management of audio across a home&amp;rsquo;s smart ecosystem.</description>
+			</item>
+			<item>
+				<title>Measuring the usability of complex OSS installation methods for new users</title>
+				<link>http://localhost:1313/posts/usability-installation/</link>
+				<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/usability-installation/</guid>
+				<description>How to better understand &amp;lsquo;approachability&amp;rsquo; on complex, technical installation methods on new users and users with less technical familiarity and proficiency research</description>
+			</item>
+	</channel>
+</rss>

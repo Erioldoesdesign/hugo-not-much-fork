@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Publication on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/publication/</link>
+		<description>Recent content in Publication on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Giving Science Annuals a visual creative make-over with interactive, reactive covers and rich visuals</title>
+				<link>http://localhost:1313/posts/scientia-annuals/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/scientia-annuals/</guid>
+				<description>Creating unique and reactive print design annuals with rich visual explorations for content internally and maximising the wonders of print design.</description>
+			</item>
+	</channel>
+</rss>

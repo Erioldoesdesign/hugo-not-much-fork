@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="http://localhost:1313/favicon.ico" />
+<meta property="og:url" content="http://localhost:1313/posts/music-assistant/">
+	<meta property="og:site_name" content="Eriol Does Design">
+	<meta property="og:title" content="Music listening behaviour in Smart Homes. Improving the smart speaker music management experience">
+	<meta property="og:description" content="Portfolio page for Music Assistant">
+	<meta property="og:locale" content="en">
+	<meta property="og:type" content="article">
+		<meta property="article:section" content="posts">
+		<meta property="article:published_time" content="2026-10-20T00:00:00+00:00">
+		<meta property="article:modified_time" content="2026-10-20T00:00:00+00:00">
+		<meta property="article:tag" content="UI">
+		<meta property="article:tag" content="UX">
+		<meta property="article:tag" content="User Research">
+		<meta property="article:tag" content="IoT">
+
+<title>Eriol Does Design | Music listening behaviour in Smart Homes. Improving the smart speaker music management experience</title>
+
+    <link rel="stylesheet" href="/css/main.css">
+  
+      <link rel="stylesheet" href="/css/palette/eriol.css">
+
+      <script src="/js/main.js"></script>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+</head>
+
+  
+<body
+>
+  
+  <main>
+    
+  <div class="container pt-5">
+    <div class="row mt-5 pt-5">
+      
+
+
+  <nav aria-label="breadcrumb" class="
+    small
+    navbar
+    navbar-dark
+    navbar-expand-lg">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleMenu" aria-controls="collapsibleMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse mt-3 mt-md-0" id="collapsibleMenu">
+      <ol class="breadcrumb fw-bold">
+    <li class="breadcrumb-item my-1 my-md-0 ms-3 ms-md-0">
+      <a href="/"
+        
+      >home</a>
+      
+    </li>
+    <li class="breadcrumb-item my-1 my-md-0 ms-3 ms-md-0">
+      <a href="/about"
+        
+      >about</a>
+      
+    </li>
+    <li class="breadcrumb-item my-1 my-md-0 ms-3 ms-md-0">
+      <a href="/posts"
+        class="text-decoration-underline link-offset-3"
+        
+      >portfolio</a>
+      
+    </li>
+    <li class="breadcrumb-item my-1 my-md-0 ms-3 ms-md-0">
+      <a href="/tags"
+        
+      >tags</a>
+      
+    </li>
+    <li class="breadcrumb-item my-1 my-md-0 ms-3 ms-md-0">
+      <a href="/speaking"
+        
+      >speaking</a>
+      
+    </li>
+    <li class="breadcrumb-item my-1 my-md-0 ms-3 ms-md-0">
+      <a href="https://github.com/Erioldoesdesign"
+        
+          target="_blank" rel="noopener noreferrer"
+        
+      >github</a>
+      
+    </li>
+      </ol>
+    </div>
+  </nav>
+
+    </div>
+    <div class="post">
+      <header class="mb-4">
+        <h1 class="text-uppercase">Music listening behaviour in Smart Homes. Improving the smart speaker music management experience</h1>
+        
+        
+        <div aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item small">
+              
+              <time datetime="2026-10-20T00:00:00&#43;00:00">October 20, 2026</time>
+            </li>
+            
+            
+            <li class="breadcrumb-item small">
+              7 minutes
+            </li>
+          </ol>
+        </div>
+      </header>
+      
+      <article>
+        <h2 id="project-overview-not-just-another-tool-for-listening-to-music-empowering-users-with-smart-home-speakers-to-automate-music-behaviours">Project Overview: Not <em>just</em> another tool for listening to music. Empowering users with smart home speakers to automate music behaviours</h2>
+<br>
+<p><a href="https://www.music-assistant.io/">Music Assistant</a> is one of <a href="https://www.home-assistant.io/">Home Assistant&rsquo;s</a> key maintained projects. Fundementally it allows users to listen to music via their existing streaming services as well as local files, internat radio and other sources. The very unique aspects are the ability to manage and control smart audio players from the Music Assistant interface as well as set up automations in your smart home that play audio.</p>
+<p>Music Assistant&rsquo;s interface, like many of Home Assistant&rsquo;s interfaces and tools, were primarily created by developers and OSS contributors that have some knowledge of UX and Ui best practices that can apply to their own use cases and other power users use cases but the UX and UI was not focused towards enabling less familiar, technical and interested to operate the features with comfort.</p>
+<p>This project describes some of the iterative UX and UI improvements to Music Assistant over my time working at The Open Home Foundation and less of a &lsquo;contained&rsquo; project. I&rsquo;ll be diving into a few significant releases over 2025 to 2026.</p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-1.png" alt="Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference" title="Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference"></p>
+<p><em>Above: Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference</em></p>
+<br>
+<h2 id="goals-and-constraints">Goals and Constraints</h2>
+<br>
+<p>Music Assistant, like many tools and technology that starts out as a <a href="https://code-maven.com/osdc/osdc-collab-dev/scratch-your-own-itch.html">&lsquo;scratch your own itch&rsquo; OSS</a> project. It was created to be used by the creators and thos emost like the creators. But, like with all software, as soon as someone other than you uses it you have a variant user type. No 2 users will use a tool in exactly the same way, under the same motivaions and for the same purpose (or this is statistically very unlikely!). So Music Assistant struggles to understand who it serves and how prominently it serves who.</p>
+<p>Music Assistant is leaning into a &lsquo;Smart Home Enthusiast&rsquo; user. One that has time, abilitya nd interested in &rsquo;tinkering&rsquo; around with settings, features, set-up and updating. As such many of the feature improvements focus on these power users while still hoping that non-power users find their own way. My personal goal as a usability and human centered designer was to improve new user accessibility and usability with every design iteration.</p>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-1.png" alt="Example of a stakeholder meeting outputs where I gathered all perspectives and constraints" title="Example of a stakeholder meeting outputs where I gathered all perspectives and constraints"></p>
+<p><em>Above: Example of a stakeholder meeting outputs where I gathered all perspectives and constraints</em></p>
+<br>
+<h3 id="user-goals">User goals</h3>
+<br>
+<ul>
+<li>Enjoy listening to music from across streaming services, local files and audio types.</li>
+<li>For multiple people in a smart home to be able to listen to different audio across different smart devices/speakers.</li>
+<li>For the admin of the Music Assistant system to have a level of access and control to destructive actions like how loud audio can be played, in certain locations under certain circumstances e.g. late at night.</li>
+<li>To Understand better what the playable audio situation is in their own smart home and have the ability and process avaialble to automate what they want.</li>
+</ul>
+<br>
+<h3 id="organisation-goals">Organisation goals</h3>
+<br>
+<ul>
+<li>Release quickly, understandable and community approved features and improvements.</li>
+<li>Uderstandable UX and UI that make critical actions more simple, understandable and enjoyable to use.</li>
+<li>For users to discover and use as many features, settings and configurable options as they have access to and know about.</li>
+<li>More users adopt Music Assistant as a preferred music listening tools while a user in in their smart home.</li>
+<li>To appeal to music and audio geeks by offering features and settings that prioritise audio quality and protocol playing mode as a clear option.</li>
+</ul>
+<br>
+<h2 id="methods-and-process">Methods and Process</h2>
+<br>
+<p>The typical process for Music Assistant was:</p>
+<ol>
+<li>A Design, development or a community user raises an issue, feature request or an enhancement topic. These should connect to the larger organisational goals for the year to have focused resource on them and be wanted by the community of users.</li>
+<li>Scoping and cinfirmation of UX and User Research exploration. This is where was assess whether the work can be done primarily by development with design support, advice and quick involvement or by a more detailed design exploration process. This typically happened when a critical feature was being discussed and the stakeholders had very strong differing evidence or opnions about direction.</li>
+<li>Deeper design investigated design solutions, validated them with stakeholders and community, sometimes with structured usability testing or research conversations. If user validation was not possible we looked to the standards set by similar technologies.</li>
+<li>Design exploration continues until user community and stakeholder approval was gained and all design acceptance criteria were met.</li>
+<li>A &lsquo;good enough&rsquo; design went over to development where if adaptions were made, we re-convened as a team and community to address the adaptions that often came from discoveries in implementation.</li>
+</ol>
+<br>
+<h2 id="impact-and-outcomes">Impact and Outcomes</h2>
+<br>
+<p>The two features that produced the most impactful outcomes were <strong>improving the don&rsquo;t stop the music</strong> feature and improving the <strong>player drawer speaker management</strong> experience.</p>
+<p>Don&rsquo;t stop the music was a feature that had a function twin. There were two features that produced an incredibly similar output of continuous music being played. Initial conversations explored the differences functionally and from a user&rsquo;s point of view of these features. We discovered they could be easily merged into a new feature called <strong>&lsquo;Autoplay&rsquo;</strong>. This name matched other music streaming platforms and we looked at these to aggregate the UI and UX implementation.</p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-1.png" alt="Sketches of don’t stop the music improvements" title="Sketches of don&#39;t stop the music improvements"></p>
+<p><em>Above: Sketches of don&rsquo;t stop the music improvements</em></p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-2.png" alt="The mental map of ‘don’t stop the music’ from a user pov" title="The mental map of &#39;don&#39;t stop the music&#39; from a user pov"></p>
+<p><em>Above: The mental map of &lsquo;don&rsquo;t stop the music&rsquo; from a user pov</em></p>
+<br>
+<p>A first simple phase focused on the visual design, from icons, colours and animations and progress to where this feature should live. After 3 rounds of design we settled on the player queue page since this was where a user views what music tracks are populating the autoplay queue and under what rules.</p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-3.png" alt="Early visual design ideas for autoplay" title="Early visual design ideas for autoplay"></p>
+<p><em>Above: Early visual design ideas for autoplay</em></p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-4.png" alt="Implementation close UX/UI design ideas for autoplay" title="Implementation close UX/UI design ideas for autoplay"></p>
+<p><em>Above: Implementation close UX/UI design ideas for autoplay</em></p>
+<br>
+<p>There was pushback from the development team on the positioning of button functions, how UI should appear when it&rsquo;s &lsquo;running&rsquo; and also positioning a functional feature in the music track play queue. Presenting the design rationale for these choices took extensive research and conversation about the usability heuristic <a href="https://www.nngroup.com/articles/recognition-and-recall/">recognition and recall in user interfaces</a> and that functions should be close in proximity to function they effect.</p>
+<br>
+<p>The second feature implementation is improving finding smart speakers, understanding the state of smart speakers (are they playing audio? How loud? Is speaker 1 grouped with speaker 2? etc.)</p>
+<p>The main UX issue here was the way of viewing, editing, grouping, deleting, renaming smart speakers was all done in a single minimal slide out &lsquo;UI drawer&rsquo;. This drawer UI offered high amounts of cognitive load in a small space (on larger screen sizes at least) with little opportunity to pace the cognitive load of that task-heavy section of the Interface.</p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-2.png" alt="Early visual design ideas for the individual speaker section within the drawer." title="Early visual design ideas for the individual speaker section within the drawer."></p>
+<p><em>Above: Early visual design ideas for the individual speaker section within the drawer.</em></p>
+<br>
+<p>Much of the early design work was focused on isolating the essential operations that users want to do and how they might be done in combnation of sequences and what we wanted to assert as the &lsquo;best&rsquo; opinionated sequece of function.</p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-3.png" alt="Finding layouts that optimise available screen size and don’t default to the smallest mobile view if more space is available for users" title="Finding layouts that optimise available screen size and don&#39;t default to the smallest mobile view if more space is available for users"></p>
+<p><em>Above: Finding layouts that optimise available screen size and don&rsquo;t default to the smallest mobile view if more space is available for users</em></p>
+<br>
+<p>I worked on moving functions to other nearby UI, like the &rsquo;now playing bar&rsquo; along the bottom of the screen and seeing if we can have several menus that have a single main function and sub functions that connect to the primary function. This mean&rsquo;t eventually we created three sections on the right hand of the now player bar as a kind of &lsquo;menu&rsquo; that allowed for 3 primary actions of volume control, speaker grouping and speaker overview with play/pause controls and focus change.</p>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-4.png" alt="Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers." title="Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers."></p>
+<p><em>Above: Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers.</em></p>
+<br>
+<br>
+<p><img src="https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-5.png" alt="A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition." title="A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition"></p>
+<p><em>Above: A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition.</em></p>
+<br>
+<h2 id="watch-the-livestream-of-a-music-assistant-release-party-where-ui-updates-were-made">Watch the Livestream of a Music Assistant release party where UI updates were made</h2>
+<br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/J0W_PgDxpzA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<br>
+      </article>
+      
+  <div class="tags pb-4 pt-2">
+    
+    
+        <a class="badge rounded-pill text-uppercase text-bg-secondary" href="/tags/ui/">UI</a>
+        <a class="badge rounded-pill text-uppercase text-bg-secondary" href="/tags/ux/">UX</a>
+        <a class="badge rounded-pill text-uppercase text-bg-secondary" href="/tags/user-research/">User Research</a>
+        <a class="badge rounded-pill text-uppercase text-bg-secondary" href="/tags/iot/">IoT</a>
+  </div>
+
+      <div class="row">
+    <div class="col-md">
+        
+        <a href="/posts/usability-installation/">
+            <span>previous: </span>
+            <span>Measuring the usability of complex OSS installation methods for new users</span>
+        </a>
+        
+    </div>
+    <div class="col-md text-md-end">
+        
+        <a href="/posts/esp-home/">
+            <span>next: </span>
+            <span>An accessible User Interface to build custom smart home IoT</span>
+        </a>
+        
+    </div>
+</div>
+      
+    </div>
+  </div>
+  
+    <footer>
+      <div class="container mt-4 pb-1">
+    <p class="small opacity-75">
+        Sample custom notice © 2026
+        
+        // powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/imgios/not-much">imgios/not-much</a>
+        
+    </p>
+</div>
+
+    </footer>
+  
+
+  </main>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <script>
+    function detectThemePreferences() {
+      let themeClasses = ["text-dark"];
+      if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          themeClasses = ["text-light", "dark"];
+      }
+      document.body.classList.add(...themeClasses);
+    }
+
+    detectThemePreferences();
+  </script>
+
+  
+
+</body>
+</html>

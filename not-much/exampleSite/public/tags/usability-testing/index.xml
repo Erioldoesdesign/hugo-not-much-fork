@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Usability Testing on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/usability-testing/</link>
+		<description>Recent content in Usability Testing on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/usability-testing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>An accessible User Interface to build custom smart home IoT</title>
+				<link>http://localhost:1313/posts/esp-home/</link>
+				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/esp-home/</guid>
+				<description>Ensuring that electronics and coding proficient interfaces intended for beginner users are accessible, usable and approachable to new users with ESPHome.</description>
+			</item>
+			<item>
+				<title>How developers understand package security information: UI for Attestations</title>
+				<link>http://localhost:1313/posts/openssf-attestations/</link>
+				<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/openssf-attestations/</guid>
+				<description>Working with the Linux Foundation&amp;rsquo;s OpenSSF/Securing software repos working group on understanding attestations and developing an open source attestation style guide.</description>
+			</item>
+			<item>
+				<title>Resources for developers to improve usability testing skills under pressure</title>
+				<link>http://localhost:1313/posts/adoptable-usable-tools/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/adoptable-usable-tools/</guid>
+				<description>Making usability testing make sense for small, resource-constrained technology teams and the developers that prop up the open source internet freedom ecosystem..</description>
+			</item>
+			<item>
+				<title>Website information routes that prioritise what users are seeking</title>
+				<link>http://localhost:1313/posts/open-tech-fund-website/</link>
+				<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-tech-fund-website/</guid>
+				<description>Reworking The Open Technology Fund&amp;rsquo;s website that prioritised understanding who visits and for what purposes.</description>
+			</item>
+			<item>
+				<title>Technology for farmers and sustainable food supply chains with The Open Food Network</title>
+				<link>http://localhost:1313/posts/open-food-network/</link>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-food-network/</guid>
+				<description>Giving farmers and sustainable food supply chains open and accessible technology to sell food to their communities.</description>
+			</item>
+	</channel>
+</rss>

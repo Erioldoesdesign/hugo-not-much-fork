@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>OSS on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/oss/</link>
+		<description>Recent content in OSS on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/oss/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>An accessible User Interface to build custom smart home IoT</title>
+				<link>http://localhost:1313/posts/esp-home/</link>
+				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/esp-home/</guid>
+				<description>Ensuring that electronics and coding proficient interfaces intended for beginner users are accessible, usable and approachable to new users with ESPHome.</description>
+			</item>
+			<item>
+				<title>Helping Journalists open suspicious documents safely</title>
+				<link>http://localhost:1313/posts/dangerzone/</link>
+				<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/dangerzone/</guid>
+				<description>Helping journalists and activists stay safe from potentially infected files with a simple, straight-forward and understandable OCR based tool that &amp;lsquo;scans&amp;rsquo; your suspicious document and makes a &amp;lsquo;clean&amp;rsquo; copy.</description>
+			</item>
+			<item>
+				<title>How developers understand package security information: UI for Attestations</title>
+				<link>http://localhost:1313/posts/openssf-attestations/</link>
+				<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/openssf-attestations/</guid>
+				<description>Working with the Linux Foundation&amp;rsquo;s OpenSSF/Securing software repos working group on understanding attestations and developing an open source attestation style guide.</description>
+			</item>
+			<item>
+				<title>Understanding the lives of Designers contributing to OSS with diary studies</title>
+				<link>http://localhost:1313/posts/design-in-oss/</link>
+				<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/design-in-oss/</guid>
+				<description>The research project &amp;lsquo;The Secret Lives of Designers contributing to OSS&amp;rsquo;. A 12 week diary studies user research and resulting industry report.</description>
+			</item>
+			<item>
+				<title>Sending files without a trace. Using the magic wormhole protocol for peer-to-peer file transfer</title>
+				<link>http://localhost:1313/posts/destiny/</link>
+				<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/destiny/</guid>
+				<description>Helping NGO&amp;rsquo;s, Journalists and Activists stay safe when sending essential files over the internet by making sure they understand and can operate peer to peer file sharing tools.</description>
+			</item>
+			<item>
+				<title>Coming together as an OSS community to keep foundations and essential OSS funded.</title>
+				<link>http://localhost:1313/posts/foss-responders/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/foss-responders/</guid>
+				<description>Supporting the foss responders project by ensuring we had great visual design and indentity that prompted donations and design assets and styles that supporting fundraising and communication efforts.</description>
+			</item>
+			<item>
+				<title>Making sense of global data about Malware and Spyware searchable, viewable and understandable</title>
+				<link>http://localhost:1313/posts/mobile-surveillance-monitor/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/mobile-surveillance-monitor/</guid>
+				<description>Making sense of global data about Malware and Spyware searchable, viewable and understandable to journalists, activists and academics.</description>
+			</item>
+			<item>
+				<title>Strengthening the Design community and the Open Source Ecosystem by faciltating collaboration together and bridging the design gaps in OSS</title>
+				<link>http://localhost:1313/posts/open-design/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-design/</guid>
+				<description>A community interest, multi-stakeholder project focussed on bringing designers into the OSS ecosystem and solving the puzzle of sustainable and maintainable open source design contributions via &amp;lsquo;OSS for good&amp;rsquo;.</description>
+			</item>
+			<item>
+				<title>The Usability and Design challenges of scientific and research open source software</title>
+				<link>http://localhost:1313/posts/mobile-surveillance-monitor/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/mobile-surveillance-monitor/</guid>
+				<description>A 6 month funded project to interview people making and maintaining scienctific and research OSS and how they understand Usability and Design challenges.</description>
+			</item>
+			<item>
+				<title>Maintaining the open source design community and sustaining the growing need for better design across open source software globally</title>
+				<link>http://localhost:1313/posts/open-source-design/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-source-design/</guid>
+				<description>Maintaining the open source design community and sustaining the growing need for better design across open source software globally.</description>
+			</item>
+			<item>
+				<title>Resources for developers to improve usability testing skills under pressure</title>
+				<link>http://localhost:1313/posts/adoptable-usable-tools/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/adoptable-usable-tools/</guid>
+				<description>Making usability testing make sense for small, resource-constrained technology teams and the developers that prop up the open source internet freedom ecosystem..</description>
+			</item>
+			<item>
+				<title>Website information routes that prioritise what users are seeking</title>
+				<link>http://localhost:1313/posts/open-tech-fund-website/</link>
+				<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-tech-fund-website/</guid>
+				<description>Reworking The Open Technology Fund&amp;rsquo;s website that prioritised understanding who visits and for what purposes.</description>
+			</item>
+			<item>
+				<title>Technology for farmers and sustainable food supply chains with The Open Food Network</title>
+				<link>http://localhost:1313/posts/open-food-network/</link>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-food-network/</guid>
+				<description>Giving farmers and sustainable food supply chains open and accessible technology to sell food to their communities.</description>
+			</item>
+	</channel>
+</rss>

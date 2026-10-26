@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Community on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/community/</link>
+		<description>Recent content in Community on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Strengthening the Design community and the Open Source Ecosystem by faciltating collaboration together and bridging the design gaps in OSS</title>
+				<link>http://localhost:1313/posts/open-design/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-design/</guid>
+				<description>A community interest, multi-stakeholder project focussed on bringing designers into the OSS ecosystem and solving the puzzle of sustainable and maintainable open source design contributions via &amp;lsquo;OSS for good&amp;rsquo;.</description>
+			</item>
+			<item>
+				<title>Maintaining the open source design community and sustaining the growing need for better design across open source software globally</title>
+				<link>http://localhost:1313/posts/open-source-design/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-source-design/</guid>
+				<description>Maintaining the open source design community and sustaining the growing need for better design across open source software globally.</description>
+			</item>
+	</channel>
+</rss>

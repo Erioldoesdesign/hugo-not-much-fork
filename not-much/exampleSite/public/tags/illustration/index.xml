@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Illustration on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/illustration/</link>
+		<description>Recent content in Illustration on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/illustration/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Resources for developers to improve usability testing skills under pressure</title>
+				<link>http://localhost:1313/posts/adoptable-usable-tools/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/adoptable-usable-tools/</guid>
+				<description>Making usability testing make sense for small, resource-constrained technology teams and the developers that prop up the open source internet freedom ecosystem..</description>
+			</item>
+			<item>
+				<title>Prototypes to improve the user experience and service design of end of life care for a person with a terminal illness</title>
+				<link>http://localhost:1313/posts/tech-and-terminal-illness/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/tech-and-terminal-illness/</guid>
+				<description>Inclusive, trauma informed prototypes that explore the stresses, joys, struggles and day to day of people with terminal illness and their carers.</description>
+			</item>
+	</channel>
+</rss>

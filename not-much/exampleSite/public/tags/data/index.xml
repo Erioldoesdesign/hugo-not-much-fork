@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Data on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/data/</link>
+		<description>Recent content in Data on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/data/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Comprehensible data matching across humanitarian data sets using HXL and the Humanitarian Data Exchange</title>
+				<link>http://localhost:1313/posts/hdx/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hdx/</guid>
+				<description>Ensuring that import, export and tagging of data on the Ushahidi data collection platform was usable and accessible to users as they imported and exported datasets across systems. Universal data language comprehension as critical usability for data analysis.</description>
+			</item>
+			<item>
+				<title>Data Collection, Mapping and Crisis Response technology for open source and social good globally</title>
+				<link>http://localhost:1313/posts/ushahidi/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/ushahidi/</guid>
+				<description>Building Data Collection, Mapping and Crisis Response technology for global NGO and Activists in the heart of Kenya.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> Visual Design on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/-visual-design/</link>
+		<description>Recent content in  Visual Design on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/-visual-design/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Coming together as an OSS community to keep foundations and essential OSS funded.</title>
+				<link>http://localhost:1313/posts/foss-responders/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/foss-responders/</guid>
+				<description>Supporting the foss responders project by ensuring we had great visual design and indentity that prompted donations and design assets and styles that supporting fundraising and communication efforts.</description>
+			</item>
+			<item>
+				<title>Comprehensible data matching across humanitarian data sets using HXL and the Humanitarian Data Exchange</title>
+				<link>http://localhost:1313/posts/hdx/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hdx/</guid>
+				<description>Ensuring that import, export and tagging of data on the Ushahidi data collection platform was usable and accessible to users as they imported and exported datasets across systems. Universal data language comprehension as critical usability for data analysis.</description>
+			</item>
+	</channel>
+</rss>

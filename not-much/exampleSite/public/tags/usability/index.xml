@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Usability on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/usability/</link>
+		<description>Recent content in Usability on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Measuring the usability of complex OSS installation methods for new users</title>
+				<link>http://localhost:1313/posts/usability-installation/</link>
+				<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/usability-installation/</guid>
+				<description>How to better understand &amp;lsquo;approachability&amp;rsquo; on complex, technical installation methods on new users and users with less technical familiarity and proficiency research</description>
+			</item>
+			<item>
+				<title>Understanding the lives of Designers contributing to OSS with diary studies</title>
+				<link>http://localhost:1313/posts/design-in-oss/</link>
+				<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/design-in-oss/</guid>
+				<description>The research project &amp;lsquo;The Secret Lives of Designers contributing to OSS&amp;rsquo;. A 12 week diary studies user research and resulting industry report.</description>
+			</item>
+			<item>
+				<title>Sending files without a trace. Using the magic wormhole protocol for peer-to-peer file transfer</title>
+				<link>http://localhost:1313/posts/destiny/</link>
+				<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/destiny/</guid>
+				<description>Helping NGO&amp;rsquo;s, Journalists and Activists stay safe when sending essential files over the internet by making sure they understand and can operate peer to peer file sharing tools.</description>
+			</item>
+			<item>
+				<title>Making sense of global data about Malware and Spyware searchable, viewable and understandable</title>
+				<link>http://localhost:1313/posts/mobile-surveillance-monitor/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/mobile-surveillance-monitor/</guid>
+				<description>Making sense of global data about Malware and Spyware searchable, viewable and understandable to journalists, activists and academics.</description>
+			</item>
+			<item>
+				<title>The Usability and Design challenges of scientific and research open source software</title>
+				<link>http://localhost:1313/posts/mobile-surveillance-monitor/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/mobile-surveillance-monitor/</guid>
+				<description>A 6 month funded project to interview people making and maintaining scienctific and research OSS and how they understand Usability and Design challenges.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Branding on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/branding/</link>
+		<description>Recent content in Branding on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/branding/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Helping Journalists open suspicious documents safely</title>
+				<link>http://localhost:1313/posts/dangerzone/</link>
+				<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/dangerzone/</guid>
+				<description>Helping journalists and activists stay safe from potentially infected files with a simple, straight-forward and understandable OCR based tool that &amp;lsquo;scans&amp;rsquo; your suspicious document and makes a &amp;lsquo;clean&amp;rsquo; copy.</description>
+			</item>
+			<item>
+				<title>Coming together as an OSS community to keep foundations and essential OSS funded.</title>
+				<link>http://localhost:1313/posts/foss-responders/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/foss-responders/</guid>
+				<description>Supporting the foss responders project by ensuring we had great visual design and indentity that prompted donations and design assets and styles that supporting fundraising and communication efforts.</description>
+			</item>
+			<item>
+				<title>Making sense of global data about Malware and Spyware searchable, viewable and understandable</title>
+				<link>http://localhost:1313/posts/mobile-surveillance-monitor/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/mobile-surveillance-monitor/</guid>
+				<description>Making sense of global data about Malware and Spyware searchable, viewable and understandable to journalists, activists and academics.</description>
+			</item>
+	</channel>
+</rss>

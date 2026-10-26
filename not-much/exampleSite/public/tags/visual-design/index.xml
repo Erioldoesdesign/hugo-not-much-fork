@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Visual Design on Eriol Does Design</title>
+		<link>http://localhost:1313/tags/visual-design/</link>
+		<description>Recent content in Visual Design on Eriol Does Design</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Sample custom notice © {year}</copyright>
+		
+		
+			<lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Designing safe, private and care-focused mutual aid experiences in times of crisis</title>
+				<link>http://localhost:1313/posts/dispatcher/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/dispatcher/</guid>
+				<description>Just before the COVID-19 pandemic hit, a team of technologists explored and prototyped what a safe, secure, connected and crisis-relevant mutual aid technology network would need to look like.</description>
+			</item>
+			<item>
+				<title>Providing essential coaching during prototype funding rounds for open source software</title>
+				<link>http://localhost:1313/posts/pf-coaching/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/pf-coaching/</guid>
+				<description>Making the most of limited coaching time with open source software projects that are in prototyping funding rounds is an exercise in getting to the root of a design and usability problem and quickly and efectively as possible.</description>
+			</item>
+			<item>
+				<title>Strengthening the Design community and the Open Source Ecosystem by faciltating collaboration together and bridging the design gaps in OSS</title>
+				<link>http://localhost:1313/posts/open-design/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-design/</guid>
+				<description>A community interest, multi-stakeholder project focussed on bringing designers into the OSS ecosystem and solving the puzzle of sustainable and maintainable open source design contributions via &amp;lsquo;OSS for good&amp;rsquo;.</description>
+			</item>
+			<item>
+				<title>Communication during crisis. Building technology the connects you in the most extreme crisis</title>
+				<link>http://localhost:1313/posts/tenfour/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/tenfour/</guid>
+				<description>After team members were trapped during a terrorist attack, we never wanted to not be able to check on our team during high risk crisis again. Making crisis communications usable and well designed for stress scenarios.</description>
+			</item>
+			<item>
+				<title>How can technology and design help people striving for peace after genocide</title>
+				<link>http://localhost:1313/posts/isooko/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/isooko/</guid>
+				<description>How can technology help people striving for peace after genocide and how to focus on a co-creation, liberty and equity focus strengthen bridges between communities under traumtic stress.</description>
+			</item>
+			<item>
+				<title>Maintaining the open source design community and sustaining the growing need for better design across open source software globally</title>
+				<link>http://localhost:1313/posts/open-source-design/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/open-source-design/</guid>
+				<description>Maintaining the open source design community and sustaining the growing need for better design across open source software globally.</description>
+			</item>
+			<item>
+				<title>Data Collection, Mapping and Crisis Response technology for open source and social good globally</title>
+				<link>http://localhost:1313/posts/ushahidi/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/ushahidi/</guid>
+				<description>Building Data Collection, Mapping and Crisis Response technology for global NGO and Activists in the heart of Kenya.</description>
+			</item>
+			<item>
+				<title>Making sense of student accomodation for students starting their educational journey</title>
+				<link>http://localhost:1313/posts/unite-students/</link>
+				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/unite-students/</guid>
+				<description>Ensuring cohesive design across a braod spectrum of platforms, projects, promotions and communications as the in-house design team at unite students.</description>
+			</item>
+			<item>
+				<title>Sensible restrictions for screentime for kids and supporting design that empowers the parent and kid relationship and doesn&#39;t re-enforce control</title>
+				<link>http://localhost:1313/posts/screentime/</link>
+				<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/screentime/</guid>
+				<description>Leading the visual and UX design projects for a popular parental control app worldwide across iOS, Android and webapp.</description>
+			</item>
+			<item>
+				<title>Giving Science Annuals a visual creative make-over with interactive, reactive covers and rich visuals</title>
+				<link>http://localhost:1313/posts/scientia-annuals/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/scientia-annuals/</guid>
+				<description>Creating unique and reactive print design annuals with rich visual explorations for content internally and maximising the wonders of print design.</description>
+			</item>
+			<item>
+				<title>Prototypes to improve the user experience and service design of end of life care for a person with a terminal illness</title>
+				<link>http://localhost:1313/posts/tech-and-terminal-illness/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/tech-and-terminal-illness/</guid>
+				<description>Inclusive, trauma informed prototypes that explore the stresses, joys, struggles and day to day of people with terminal illness and their carers.</description>
+			</item>
+			<item>
+				<title>Working alongside the community with mapping the green map spaces locally</title>
+				<link>http://localhost:1313/posts/green-map/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/green-map/</guid>
+				<description>Working over 4 years of research, community co-creation to develop a community led greenmap project that could be accessed online and in person as a permenant sign.</description>
+			</item>
+	</channel>
+</rss>
