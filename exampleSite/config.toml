@@ -5,7 +5,7 @@ themesDir = "../../"
 
 title = "Eriol Does Design"
 theme = "not-much"
-baseURL = "https://example.org/"
+baseURL = "https://erioldoesdesign.github.io/"
 copyright = "Sample custom notice © {year}"
 
 defaultContentLanguage = "en"
